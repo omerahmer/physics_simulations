@@ -1,0 +1,2 @@
+Need constant current input (and voltage input?)
+get out charging time, dissipated power loss, energy dissipated, temperature change (doesn't this depend on first temp?)
