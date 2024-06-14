@@ -1,7 +1,7 @@
-[ ] fix bugs in einzel lens simulator code
+- [ ] fix bugs in einzel lens simulator code
 
-[ ] fix CORS issues
+- [ ] fix CORS issues
 
-[ ] integrate with main website
+- [ ] integrate with main website
 
-to run the einzel lens simulator, turn off CORS on your browser for now
+to run the einzel lens simulator, **turn off CORS on your browser** for now
